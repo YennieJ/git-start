@@ -1,6 +1,10 @@
 team: T1
 
+<<<<<<< HEAD
 manager: Nofe
+=======
+manager: KKoma
+>>>>>>> conflict-1
 
 coach: Grace
 
